@@ -443,6 +443,7 @@
   -ms-flex: 1;
   flex: 1;
   padding: 0 10px;
+  overflow: hidden;
 }
 
 .info-box .info-box-number {
